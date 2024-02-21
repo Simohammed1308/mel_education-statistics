@@ -19,8 +19,8 @@ une Start-up de la EdTech nommée academy (cours en ligne niveau: Lycée et Univ
 
 ### 1. Télécharger le projet sur votre répertoire local : 
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/4425126-testing-python.git 
-cd 4425126-testing-python
+git https://github.com/Simohammed1308/mel_education-statistics
+cd mel_education-statistics
 ```
 ### 2. Mettre en place un environnement virtuel :
 * Créer l'environnement virtuel: `python -m venv venv`
